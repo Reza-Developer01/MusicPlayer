@@ -5,7 +5,7 @@ A beautiful music player with JS
 ![16](https://github.com/Reza-Developer01/MusicPlayer/blob/main/16.png)
 ![17](https://github.com/Reza-Developer01/MusicPlayer/blob/main/17.png)
 
-- ✨ [Demo Project](https://reza-developer01.github.io/ShoppingCart/)
+- ✨ [Demo Project](https://reza-developer01.github.io/MusicPlayer/)
 
 - 👨‍💻 Developed by Reza Rashvand
 
